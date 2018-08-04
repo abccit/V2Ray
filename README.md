@@ -1,4 +1,3 @@
-# V2Ray
 # 安装 V2Ray 配置 WebSocket+Nginx+TLS #
 V2Ray 官网
 V2Ray 白话文教程
